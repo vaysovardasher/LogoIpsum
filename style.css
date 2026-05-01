@@ -176,3 +176,49 @@ header {
   font-weight: 600;
   letter-spacing: 0.2px;
 }
+.section4 {
+  width: 100%;
+  padding: 100px 0;
+}
+.container3 {
+  width: 85%;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 100px;
+}
+.div7 {
+  width: 45%;
+}
+.title3 {
+  font-size: 58px;
+  margin: 40px 0px;
+  padding-top: 150px;
+}
+.parag3 {
+  font-size: 25px;
+  color: grey;
+  line-height: 28px;
+  padding-bottom: 20px;
+  line-height: 1.5;
+}
+.div8 {
+  width: 45%;
+  height: 350px;
+  position: relative;
+}
+.img7 {
+  width: 250px;
+  position: relative;
+  left: 280px;
+  top: 100px;
+  z-index: 1;
+}
+.img8 {
+  width: 340px;
+  position: relative;
+  bottom: 290px;
+  left: 130px;
+  z-index: 2;
+}

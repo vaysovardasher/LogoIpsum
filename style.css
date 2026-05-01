@@ -119,7 +119,60 @@ header {
   align-items: center;
   justify-content: space-between;
 }
-
 .img4 {
   width: 140px;
+}
+.section3 {
+  width: 100%;
+  padding: 100px 0;
+}
+.container2 {
+  width: 85%;
+  margin: auto;
+}
+.div4 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.div5 {
+  width: 45%;
+  height: 350px;
+  position: relative;
+}
+.img5 {
+  width: 200px;
+  position: relative;
+  left: 0;
+  bottom: 300px;
+  z-index: 1;
+}
+.img6 {
+  width: 240px;
+  position: relative;
+  left: 40px;
+  top: 0;
+  z-index: 2;
+}
+.div6 {
+  width: 45%;
+}
+.title2 {
+  font-size: 58px;
+  margin: 40px 0px;
+  padding-top: 150px;
+}
+.parag2 {
+  font-size: 25px;
+  color: grey;
+  line-height: 28px;
+  padding-bottom: 20px;
+  line-height: 1.5;
+}
+.link2 {
+  text-decoration: none;
+  color: rgba(84, 84, 212, 1);
+  font-size: 25px;
+  font-weight: 600;
+  letter-spacing: 0.2px;
 }

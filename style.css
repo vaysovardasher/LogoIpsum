@@ -222,3 +222,31 @@ header {
   left: 130px;
   z-index: 2;
 }
+.section5 {
+  width: 100%;
+  padding: 60px 0;
+}
+.container4 {
+  width: 85%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 150px;
+}
+.div9 {
+  width: 30%;
+  text-align: center;
+}
+.img9 {
+  width: 140px;
+  margin-bottom: 20px;
+}
+.subtitle2 {
+  font-size: 25px;
+  padding-bottom: 10px;
+}
+.parag4 {
+  font-size: 18px;
+  color: grey;
+  line-height: 24px;
+}

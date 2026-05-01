@@ -166,7 +166,6 @@ header {
 .div3 {
   display: flex;
   justify-content: space-between;
-  
 }
 
 .div4 {
@@ -205,8 +204,8 @@ header {
   padding-bottom: 20px;
 }
 
-.list1 li{
-    font-size: 17px;
+.list1 li {
+  font-size: 17px;
 }
 .link2 {
   text-decoration: none;
@@ -283,4 +282,67 @@ header {
   text-decoration: none;
   color: rgba(35, 166, 240, 1);
   font-weight: bold;
+}
+.section3 {
+  width: 100%;
+  padding: 80px 0;
+  text-align: center;
+  background-color: rgba(250, 250, 250, 1);
+}
+
+.container3 {
+  width: 80%;
+  margin: auto;
+}
+
+.title3 {
+  font-size: 36px;
+  color: black;
+  padding-bottom: 15px;
+}
+
+.subtitle3 {
+  font-size: 14px;
+  color: grey;
+  line-height: 22px;
+  padding-bottom: 60px;
+}
+.div7 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.div8 {
+  width: 30%;
+  background-color: white;
+  border: 1px solid rgb(216, 212, 212);
+  border-radius: 8px;
+  padding: 30px;
+  text-align: left;
+  margin-left: 20px;
+}
+
+.img3 {
+  width: 120px;
+  padding-bottom: 20px;
+}
+.parag3 {
+  font-size: 16px;
+  color: grey;
+  line-height: 24px;
+  padding-bottom: 25px;
+}
+
+.div9 {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+.img4 {
+  width: 50px;
+  border-radius: 50%;
+}
+.parag5 {
+  font-size: 12px;
+  color: grey;
 }

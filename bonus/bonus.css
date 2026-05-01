@@ -50,16 +50,16 @@ header {
   background-position: center;
 }
 .container1 {
-    width: 75%;
-    height: 100%;
-    margin: auto;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    position: relative;
-    z-index: 2;
-    background-color: rgba(0, 0, 0, 0.542);
-    padding: 0px 191.5px;
+  width: 75%;
+  height: 100%;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  z-index: 2;
+  background-color: rgba(0, 0, 0, 0.542);
+  padding: 0px 191.5px;
 }
 
 .div1 {
@@ -140,4 +140,147 @@ header {
   border-radius: 5px;
   font-weight: bold;
   margin-top: 10px;
+}
+.section2 {
+  width: 100%;
+  padding: 80px 0;
+  text-align: center;
+}
+
+.container2 {
+  width: 80%;
+  margin: auto;
+}
+.title2 {
+  font-size: 36px;
+  color: black;
+  padding-bottom: 15px;
+}
+.subtitle2 {
+  font-size: 14px;
+  color: grey;
+  line-height: 22px;
+  padding-bottom: 60px;
+}
+
+.div3 {
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+.div4 {
+  width: 97%;
+  background-color: white;
+  border: 2px solid grey;
+  border-radius: 8px;
+  padding: 30px;
+  text-align: left;
+}
+.div5 {
+  width: 100%;
+  height: 8vh;
+  background-color: rgba(169, 214, 255, 1);
+  color: white;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  padding-bottom: 20px;
+}
+
+.img2 {
+  width: 40px;
+}
+.parag2 {
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
+}
+
+.list1 {
+  padding-left: 18px;
+  color: grey;
+  font-size: 18px;
+  line-height: 2px;
+  padding-bottom: 20px;
+}
+
+.list1 li{
+    font-size: 17px;
+}
+.link2 {
+  text-decoration: none;
+  color: rgba(35, 166, 240, 1);
+  font-weight: bold;
+}
+.section2 {
+  width: 100%;
+  padding: 80px 0;
+  text-align: center;
+}
+
+.container2 {
+  width: 80%;
+  margin: auto;
+}
+
+.title2 {
+  font-size: 36px;
+  color: black;
+  padding-bottom: 15px;
+}
+
+.subtitle2 {
+  font-size: 14px;
+  color: grey;
+  line-height: 22px;
+  padding-bottom: 60px;
+}
+
+.div3 {
+  display: flex;
+  justify-content: space-between;
+}
+.div6 {
+  width: 30%;
+}
+.div5 {
+  background-color: rgba(142, 194, 242, 1);
+  color: white;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  border-radius: 8px 8px 0 0;
+}
+
+.img2 {
+  width: 40px;
+}
+.parag2 {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.div4 {
+  background-color: white;
+  border: 1px solid #eee;
+  border-top: none;
+  padding: 25px;
+  text-align: left;
+  border-radius: 0 0 8px 8px;
+}
+
+.list1 {
+  padding-left: 18px;
+  color: grey;
+  font-size: 14px;
+  line-height: 26px;
+  padding-bottom: 20px;
+}
+
+.link2 {
+  text-decoration: none;
+  color: rgba(35, 166, 240, 1);
+  font-weight: bold;
 }
